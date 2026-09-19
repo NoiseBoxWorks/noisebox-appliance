@@ -27,3 +27,7 @@ Ensure your seed lists are populated and your privacy/VPN or proxy stack is acti
 
 ```bash
 python3 appliance.py
+
+---
+
+Read the full [NoiseBox Manifesto](MANIFESTO.md) to learn more about the mission behind outbound data poisoning.
