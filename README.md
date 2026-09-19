@@ -1,6 +1,6 @@
 # NoiseBox Appliance- An Open-source Tool to Obscure Your Online Footprint
 
-Read the full [NoiseBox Manifesto](MANIFESTO.md) to learn more about the mission behind outbound data poisoning.
+Read the full [NoiseBox Manifesto](Manifesto.md) to learn more about the mission behind outbound data poisoning.
 
 NoiseBox is a privacy-hardened, Python-based web crawling script designed to run on scheduled intervals in a virtualized or native Linux environment to counter online data profiling.
 
